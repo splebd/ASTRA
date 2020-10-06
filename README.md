@@ -39,7 +39,7 @@ Podemos utilizar el metodo de autenticacion de nuestra preferencia, bien sea cre
 
 En este paso solo nos restara conectarnos a nuestra base de datos con los datos de usuario y contraseña creados con anterioridad en el formulario de creacion de la DB.
 
-### Ejercicios Prácticos 📋
+### Ejercicios Prácticos 📋🔧
 
 Al igual que en una DB del tipo SQL, podemos hacer consultas y demás utilizando un lenguaje que para este caso sera CQL (Contextual Query Language).
 
@@ -67,10 +67,7 @@ user1@cqlshuse> keyspace kdb1;
 El comando, modificara el prompt y mostrar que ahora estamos ubicados dentro del keyspace:
 
 ```
-user1@cqlshuse:kdb1> 
+user1@cqlshuse:kdb1>
 ```
 
-
-### Instalación 🔧
-
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+Ahora, utilizaremos una segunda herramienta que nos ayudará de forma intuitiva y eficiente a completar algunos de los ejercicios que nos muetran la potencia de esta herramienta. Se trata de ASTRA DATASTAX STIDIO.
