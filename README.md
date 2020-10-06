@@ -52,12 +52,23 @@ Una vez hecho esto, la consola se activara y pedira usuario y contraseña: aqui 
 Aqui ya podremos correr nuestro primer comando. Miremos que keyspaces tenemos creados:
 
 ```
-desc KEYSPACES;
+user1@cqlshuse> desc KEYSPACES;
 ```
 
 Este comando nos monstrará los keyspaces que tiene creada la DB en este momento. Uno de ellos será el que creamos durante el proceso de creación de la DB.
 
 ![ScreenShot](Img/Comando_1.png)
+
+Utilizaremos nuestro keyspace creado anteriormente (kdb1), y para ello utilizaremos el siguiente comando:
+
+```
+user1@cqlshuse> keyspace kdb1;
+```
+El comando, modificara el prompt y mostrar que ahora estamos ubicados dentro del keyspace:
+
+```
+user1@cqlshuse:kdb1> 
+```
 
 
 ### Instalación 🔧
