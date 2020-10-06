@@ -29,9 +29,13 @@ Podemos utilizar el metodo de autenticacion de nuestra preferencia, bien sea cre
 ![ScreenShot](Img/Seleccion_Gratis.png)
 
 
-4.Una vez seleccionada el plan, procederemos a crear la DB, diligenciando el formulario que nos entrega ASTRA:
+4.Una vez seleccionada el plan, procederemos a crear la DB, diligenciando el formulario que nos entrega ASTRA y haga click en el botón Crear
 
 ![ScreenShot](Img/Creacion_DB.png)
+
+5. Una vez puesto el proceso de creación de la DB, este tomara algunos minutos y posteriormente aparecerá la DB como aparece a continuación:
+
+![ScreenShot](Img/DB_Creada.png)
 
 ```
 Da un ejemplo
