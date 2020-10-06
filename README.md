@@ -22,7 +22,16 @@ Deberemos seguir estos pasos para darnos de alta:
 
 2. Una vez dentro, tenemos varias opciones para poder darnos de alta:
 
-https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png
+Ahora podemos usar la imagen en cualquier otro lugar con la siguiente ruta:
+
+https://raw.githubusercontent.com/splebd/ASTRA/master/Img/DataStax.png
+
+Si no se entiende, explico cosa por cosa:
+
+usuario: tu nombre de usuario de GitHub
+repositorio: el nombre de tu repositorio
+rama: la rama del repositorio, normalmente es la master
+ruta/al/asset: la ruta que contiene tu asset
 
 ```
 Da un ejemplo
