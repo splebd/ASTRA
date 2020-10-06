@@ -22,7 +22,6 @@ Deberemos seguir estos pasos para darnos de alta:
 
 2. Una vez dentro, tenemos varias opciones para poder darnos de alta:
 
-![image](["../Img/DataStax.png"])
 
 ```
 Da un ejemplo
