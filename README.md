@@ -22,9 +22,16 @@ Deberemos seguir estos pasos para darnos de alta:
 
 2. Una vez dentro, tenemos varias opciones para poder darnos de alta:
 
-Ahora podemos usar la imagen en cualquier otro lugar con la siguiente ruta:
+![ScreenShot](Img/Autenticacion_ASTRA.png)
 
-![ScreenShot](Img/DataStax.png)
+Podemos utilizar el metodo de autenticacion de nuestra preferencia, bien sea creando una cuenta en ASTRA o utilizando un usuario de GitHub creado previamente o la autenticación integrada de Google.
+
+3. ASTRA nos invita a utilizar la herramienta, y una de las cosas que hace por nosotros es darnos una suscripción gratuita de hasta 5GB; para esta demo es mas que perfecta. Así que seleccionemos la primera opción.
+
+![ScreenShot](Img/)
+
+
+4.
 
 ```
 Da un ejemplo
