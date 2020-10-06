@@ -22,7 +22,7 @@ Deberemos seguir estos pasos para darnos de alta:
 
 2. Una vez dentro, tenemos varias opciones para poder darnos de alta:
 
-![image](["https://github.com/splebd/ASTRA/blob/main/Img/DataStax.png"])
+![image](["../Img/DataStax.png"])
 
 ```
 Da un ejemplo
