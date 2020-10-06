@@ -55,7 +55,9 @@ Aqui ya podremos correr nuestro primer comando. Miremos que keyspaces tenemos cr
 desc KEYSPACES;
 ```
 
+Este comando nos monstrará los keyspaces que tiene creada la DB en este momento. Uno de ellos será el que creamos durante el proceso de creación de la DB.
 
+![ScreenShot](Img/Comando_1.png)
 
 
 ### Instalación 🔧
