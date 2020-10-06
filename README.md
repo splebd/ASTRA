@@ -29,7 +29,7 @@ Podemos utilizar el metodo de autenticacion de nuestra preferencia, bien sea cre
 ![ScreenShot](Img/Seleccion_Gratis.png)
 
 
-4.Una vez seleccionada el plan, procederemos a crear la DB, diligenciando el formulario que nos entrega ASTRA y haga click en el botón Crear
+4. Una vez seleccionada el plan, procederemos a crear la DB, diligenciando el formulario que nos entrega ASTRA y haga click en el botón Crear
 
 ![ScreenShot](Img/Creacion_DB.png)
 
@@ -39,8 +39,15 @@ Podemos utilizar el metodo de autenticacion de nuestra preferencia, bien sea cre
 
 En este paso solo nos restara conectarnos a nuestra base de datos con los datos de usuario y contraseña creados con anterioridad en el formulario de creacion de la DB.
 
-![ScreenShot](Img/DB_Creada(1).png)
+### Ejercicios Prácticos 📋
 
+Al igual que en una DB del tipo SQL, podemos hacer consultas y demás utilizando un lenguaje que para este caso sera CQL (Contextual Query Language).
+
+Iniciemos entonces con el proceso de conexión a la DB recien creada. Para ello, haremos click en el botón Connect sobre la Base de Datos y posteriormente seleccionaremos el marcador _CQL CONSOLE_ en color azul y haremos click en el botón azul Connect.
+
+Una vez hecho esto, la consola se activara y pedira usuario y contraseña: aqui los datos que se deben ingresar son los que se crearon en el formulario de la DB hecho en el paso 4.
+
+![ScreenShot](Img/Consola_ASTRA.png)
 
 ```
 Da un ejemplo
