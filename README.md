@@ -24,7 +24,7 @@ Deberemos seguir estos pasos para darnos de alta:
 
 Ahora podemos usar la imagen en cualquier otro lugar con la siguiente ruta:
 
-![ScreenShot](DataStax.png)
+![ScreenShot](Img/DataStax.png)
 
 ```
 Da un ejemplo
