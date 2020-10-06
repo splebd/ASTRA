@@ -37,6 +37,11 @@ Podemos utilizar el metodo de autenticacion de nuestra preferencia, bien sea cre
 
 ![ScreenShot](Img/DB_Creada.png)
 
+En este paso solo nos restara conectarnos a nuestra base de datos con los datos de usuario y contraseña creados con anterioridad en el formulario de creacion de la DB.
+
+![ScreenShot](Img/DB_Creada(1).png)
+
+
 ```
 Da un ejemplo
 ```
