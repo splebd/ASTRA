@@ -24,6 +24,9 @@ Deberemos seguir estos pasos para darnos de alta:
 
 Ahora podemos usar la imagen en cualquier otro lugar con la siguiente ruta:
 
+![ScreenShot](https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
+
+
 ```
 Da un ejemplo
 ```
