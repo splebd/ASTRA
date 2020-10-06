@@ -22,7 +22,7 @@ Deberemos seguir estos pasos para darnos de alta:
 
 2. Una vez dentro, tenemos varias opciones para poder darnos de alta:
 
-https://raw.githubusercontent.com/splebd/ASTRA/master/Img/DataStax.png
+(https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
 
 ```
 Da un ejemplo
