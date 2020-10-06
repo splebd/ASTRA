@@ -49,9 +49,14 @@ Una vez hecho esto, la consola se activara y pedira usuario y contraseña: aqui 
 
 ![ScreenShot](Img/Consola_ASTRA.png)
 
+Aqui ya podremos correr nuestro primer comando. Miremos que keyspaces tenemos creados:
+
 ```
-Da un ejemplo
+desc KEYSPACES;
 ```
+
+
+
 
 ### Instalación 🔧
 
