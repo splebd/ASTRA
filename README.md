@@ -25,6 +25,7 @@ Deberemos seguir estos pasos para darnos de alta:
 Ahora podemos usar la imagen en cualquier otro lugar con la siguiente ruta:
 
 https://raw.githubusercontent.com/splebd/ASTRA/master/Img/DataStax.png
+https://github.com/splebd/ASTRA/tree/main/Img/DataStax.png
 
 Si no se entiende, explico cosa por cosa:
 
